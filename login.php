@@ -11,4 +11,6 @@
     <h2>latihan</h2>
     <p>HALOOOOOOOOO</p>
 </body>
+
+</body>
 </html>                   
